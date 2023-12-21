@@ -10,7 +10,7 @@
 - A227BSY2824 – Bima Jati Kusuma – Mobile Development - Universitas Jember
 - A179BSY2136 – Muhammad Ilham Fauzan – Mobile Development - Universitas Ahmad Dahlan
 
-## 🍿Description :
+## 🍿From Catora :
 
 There is no doubt that AI has brought transformative advancements. But it also poses a significant threat to human artists, potentially reducing their presence and income opportunities in the art industry. From this problem, we thought “How can artworks produced by human artists exist in the midst of the increasing of AI-generated artwork?”. We understand that in today's digital era, AI has developed rapidly and is capable of creating amazing works of art. For this reason, we designed an app that can provide a safe and reliable space for artists and art enthusiasts to trade original human-made artworks without having to compete with AI-generated artwork. The main feature of this application is an AI detection system that will automatically reject any artwork detected as a result of AI. It aims to encourage and support artists in their work and create a community for artists and buyers who seek authentic, original, and meaningful artistic expression. We believe that even though AI can create works of art, there is still value and uniqueness in human-made works of art that cannot be imitated by AI.
 
